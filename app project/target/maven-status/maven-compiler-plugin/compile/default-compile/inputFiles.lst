@@ -1,0 +1,17 @@
+C:\Users\user\app project\src\main\java\com\healthchatbot\AIHealthChatbotApplication.java
+C:\Users\user\app project\src\main\java\com\healthchatbot\config\JwtAuthenticationFilter.java
+C:\Users\user\app project\src\main\java\com\healthchatbot\config\SecurityConfig.java
+C:\Users\user\app project\src\main\java\com\healthchatbot\config\WebConfig.java
+C:\Users\user\app project\src\main\java\com\healthchatbot\controller\AuthController.java
+C:\Users\user\app project\src\main\java\com\healthchatbot\controller\ConsultationController.java
+C:\Users\user\app project\src\main\java\com\healthchatbot\dto\AuthRequest.java
+C:\Users\user\app project\src\main\java\com\healthchatbot\dto\AuthResponse.java
+C:\Users\user\app project\src\main\java\com\healthchatbot\dto\ConsultationDTO.java
+C:\Users\user\app project\src\main\java\com\healthchatbot\entity\Consultation.java
+C:\Users\user\app project\src\main\java\com\healthchatbot\entity\User.java
+C:\Users\user\app project\src\main\java\com\healthchatbot\repository\ConsultationRepository.java
+C:\Users\user\app project\src\main\java\com\healthchatbot\repository\UserRepository.java
+C:\Users\user\app project\src\main\java\com\healthchatbot\service\AIService.java
+C:\Users\user\app project\src\main\java\com\healthchatbot\service\AuthService.java
+C:\Users\user\app project\src\main\java\com\healthchatbot\service\ConsultationService.java
+C:\Users\user\app project\src\main\java\com\healthchatbot\util\JwtUtil.java
